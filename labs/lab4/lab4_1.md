@@ -44,7 +44,11 @@ Assignment description [here](https://github.com/ra559/cis106/blob/main/labs/lab
 ![question4_2](../../images/lab4pt1/question4_2.png)
 
 3. Create a new directory in your Downloads directory (use whatever naming convention you want). Download 3 wallpapers and move them to your new directory.
-![question4_3_1](../../images/lab4pt1/question4_3_1.png)
-![question4_3_2](../../images/lab4pt1/question4_3_2.png)
+![question4_3](../../images/lab4pt1/question4_3.png)
 
-4. 
+4. Copy your new directory to the Pictures directory.
+![question4_4](../../images/lab4pt1/question4_4.png)
+
+5. Remove the new directory in your Downloads directory.
+![question4_5](../../images/lab4pt1/question4_5.png)
+
