@@ -32,7 +32,31 @@ Using relative path:
 
 
 ## Question 4
-
-
+![question4](../../images/Lab3/question4_1.png)
+![question4](../../images/Lab3/question4_2.png)
+![question4](../../images/Lab3/question4_3.png)
+![question4](../../images/Lab3/question4_4.png)
+![question4](../../images/Lab3/question4_5.png)
+![question4](../../images/Lab3/question4_6.png)
+![question4](../../images/Lab3/question4_7.png)
 
 ## Question 5
+1. Long list all the files in your Downloads directory.
+![question5](../../images/Lab3/question5_1.png)
+
+2. Long list all the files in your Downloads directory with a header and modified by timestamps.
+![question5](../../images/Lab3/question5_2.png)
+
+3. Install the tree program. Open another terminal and use the tree --help command to list all (or most) of the options of the tree command
+![question5](../../images/Lab3/question5_3.png)
+
+4. Use tree to list all the files in your home directory including the file owner and group.
+![question5](../../images/Lab3/question5_4_1.png)
+![question5](../../images/Lab3/question5_4_2.png)
+![question5](../../images/Lab3/question5_4_3.png)
+
+5. Use tree to list all the files in your home directory including their file size and in human readable format.
+![question5](../../images/Lab3/question5_5_1.png)
+![question5](../../images/Lab3/question5_5_2.png)
+![question5](../../images/Lab3/question5_5_3.png)
+![question5](../../images/Lab3/question5_5_4.png)
