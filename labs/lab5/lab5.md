@@ -12,6 +12,7 @@
 ![question1.3](images/question1.3.png)
 
 **4. Display the first 5 lines of a the /etc/passwd file.**
+
 ![question1.4](images/question1.4.png)
 
 **5. Display the last 5 lines of the /etc/passwd file.**
@@ -20,6 +21,7 @@
 ## Question 2
 
 **1. Display the first field of the /etc/passwd file.**
+
 ![question2.1](images/question2.1.png)
 
 **2. Display the last 5 users in the /etc/passwd file.**
@@ -37,6 +39,7 @@
 ## Question 3
 
 **1. How many lines does the /etc/passwd file have?**
+
 ![question3.1](images/question3.1.png)
 
 **2. How many words does the /etc/passwd file have?**
@@ -92,6 +95,7 @@
 
 **5. The command lshw -c memory displays information about the RAM installed in your system. Extract and append to the file the** **following information:**
 - Memory size:
+
 ![question5.5](images/question5.5.png)
 
 **6. Display the content of the file you created earlier showing all the data that has been appended so far.**
