@@ -3,6 +3,7 @@
 ## Question 1 | Tar Utility
 
 1. In the question1 directory, you will find a bunch of files. Create an archive called allfiles.tar
+
 ![question1.1](q1.1.png)
 
 2. List all the members of the archive.
@@ -10,6 +11,7 @@
 ![question1.2](q1.2.png)
 
 3. Create another text file with some text. Use the command lorem to generate the text and then output redirection to save it to a file.
+
 ![question1.3](q1.3.png)
 
 4. Add the new file to the archive.
@@ -24,12 +26,15 @@
 ## Question 2 | Cpio Utility
 
 1. Move the allfiles.tar archive from question 1 to the question2 directory and extract all the files.
+
 ![question2.1](q2.1.png)
 
 2. Remove the archive and create a new archive with cpio of all the files.
+
 ![questionq2.2](q2.2.png)
 
 3. Create a tar archive with cpio of all the files including the cpio archive.
+
 ![question2.3](q2.3.png)
 
 4. Remove all the files except the tar archive.
@@ -56,6 +61,7 @@
 ## Question 4 | Zip, 7zip and Rar
 
 1. Decompress all the compressed files from question 3 in the question4 directory. Make sure to rename the file after decompressing them.
+
 ![question4.1](q4.1.png)
 
 2. Using zip, create a zip archive of all the files.
@@ -71,5 +77,6 @@
 ![question4.4](q4.4.png)
 
 5. Long list all the archives. Which one gave you the best compression ratio?
+
 ![question4.5](q4.5.png)
 
