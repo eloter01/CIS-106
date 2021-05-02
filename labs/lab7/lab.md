@@ -6,15 +6,18 @@
 ![question1.1](q1.1.png)
 
 2. List all the members of the archive.
+
 ![question1.2](q1.2.png)
 
 3. Create another text file with some text. Use the command lorem to generate the text and then output redirection to save it to a file.
 ![question1.3](q1.3.png)
 
 4. Add the new file to the archive.
+
 ![question1.4](q1.4.png)
 
 5. List all the members of the archive.
+
 ![question1.5](q1.5.png)
 
 
@@ -30,9 +33,11 @@
 ![question2.3](q2.3.png)
 
 4. Remove all the files except the tar archive.
+
 ![question2.4](q2.4.png)
 
 5. Extract all the archive using cpio
+
 ![question2.5](q2.5.png)
 
 
@@ -54,12 +59,15 @@
 ![question4.1](q4.1.png)
 
 2. Using zip, create a zip archive of all the files.
+
 ![question4.2](q4.2.png)
 
 3. Create a 7zip archive of all the files.
+
 ![question4.3](q4.3.png)
 
 4. Create a rar archive using 7zip of all the files.
+
 ![question4.4](q4.4.png)
 
 5. Long list all the archives. Which one gave you the best compression ratio?
