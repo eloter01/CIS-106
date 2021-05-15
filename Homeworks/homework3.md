@@ -40,3 +40,10 @@ This distro is billed as a gaming distro. It supports the latest gaming hardware
 |------|----------|-----|----------------------------------|
 |![lubuntu](Lubuntu_logo.svg) | Debian, Ubuntu | <https://lubuntu.net/> | i686, x86_64 |
 
+Lubuntu is very light weight and very fast for low-end systems. Its requirements are minimal:
+
+* Processor: Pentium II or Celeron
+* RAM: 128 MB
+* Storage: 2 GB
+
+It comes with a selection of applications designed to run with lower resources and are enough for Georgina to use for her internet, application, and multimedia needs.
