@@ -1,31 +1,18 @@
-
-
 ![banner](finalProjBanner.png)
 
 ## Table of Contents
-<!-- TOC -->
-
-- [Summary and Background](#summary-and-background)
-- [System Requirements](#system-requirements)
-- [Installing Samba](#installing-samba)
-- [Samba Set Up](#samba-set-up)
-- [Set Up User Accounts](#set-up-user-accounts)
-- [Connect to Server in Linux client](#connect-to-server-in-linux-client)
-        - [CONGRATULATIONS! You have set up and connected to your own Samba file server!](#congratulations-you-have-set-up-and-connected-to-your-own-samba-file-server)
-
-<!-- /TOC -->
+<!-- TOC -->autoauto- [Table of Contents](#table-of-contents)auto- [Summary and Background](#summary-and-background)auto- [System Specifications](#system-specifications)auto- [Installing Samba](#installing-samba)auto- [Samba Set Up](#samba-set-up)auto- [Set Up User Accounts](#set-up-user-accounts)auto- [Connect to Server in Linux client](#connect-to-server-in-linux-client)auto- [CONGRATULATIONS! You have set up and connected to your own Samba file server!](#congratulations-you-have-set-up-and-connected-to-your-own-samba-file-server)auto- [Works Cited](#works-cited)autoauto<!-- /TOC -->
 
 ## Summary and Background
 This guide will demonstrate the installation and configuration of a Samba server on Ubuntu for file sharing within the local network. Samba is open source and free software suite providing print and file service to SMB/CIFS clients over a number of different operating systems. This case will cover access to the file server for a Linux client over LAN.
 
-For operating a file server, the two relevant programs in the suite are:
-* smbd: the server daemon that provides file sharing and printing services to Windows clients.
-* nmbd: NetBIOS name service and browsing daemon.
+## System Specifications
+This installation and configuration of Samaba was completed on a virtual machine with the following specifications:
 
-## System Requirements
-The following is required for setting up the Samba server:
-* Ubuntu 16.04 LTS
-* Available Local Area Network (LAN) over which to share files 
+* OS Version: Ubuntu 20.04.2 LTS, 64-bit
+* Memory: 1.9 Gib
+* Processor: AMD Ryzen 5 4500u with radeon graphics x2
+* Disk Capacity: 53.7 GB
 
 ## Installing Samba
 To update package index and install the latest version of Samba, use the following commands:
@@ -99,7 +86,14 @@ Take note of the your ip address from above.
 ![sambaConnect2](sambaConnect2.png)
 
 
-#### CONGRATULATIONS! You have set up and connected to your own Samba file server!
+## CONGRATULATIONS! You have set up and connected to your own Samba file server!
+
+## Works Cited
+
+1. “Install and Configure Samba.” Ubuntu, ubuntu.com/tutorials/install-and-configure-samba. 
+2. Linuxize. “How to Install and Configure Samba on Ubuntu 18.04.” Linuxize, Linuxize, 27 Jan. 2019, linuxize.com/post/how-to-install-and-configure-samba-on-ubuntu-18-04/. 
+3. Samba Documentation, www.samba.org/samba/docs/. 
+4. Wallen, Jack. “How to Create a Samba Share on Ubuntu Server 20.04.” TechRepublic, TechRepublic, 17 Dec. 2020, www.techrepublic.com/article/how-to-create-a-samba-share-on-ubuntu-server-20-04/. 
 
 
 
