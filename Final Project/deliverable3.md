@@ -1,7 +1,6 @@
 ![banner](finalProjBanner.png)
 
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
 - [Summary and Background](#summary-and-background)
 - [System Specifications](#system-specifications)
 - [Installing Samba](#installing-samba)
