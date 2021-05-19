@@ -1,7 +1,8 @@
 ![banner](finalProjBanner.png)
 
 ## Table of Contents
-<!-- TOC -->autoauto- [Table of Contents](#table-of-contents)auto- [Summary and Background](#summary-and-background)auto- [System Specifications](#system-specifications)auto- [Installing Samba](#installing-samba)auto- [Samba Set Up](#samba-set-up)auto- [Set Up User Accounts](#set-up-user-accounts)auto- [Connect to Server in Linux client](#connect-to-server-in-linux-client)auto- [CONGRATULATIONS! You have set up and connected to your own Samba file server!](#congratulations-you-have-set-up-and-connected-to-your-own-samba-file-server)auto- [Works Cited](#works-cited)autoauto<!-- /TOC -->
+
+
 
 ## Summary and Background
 This guide will demonstrate the installation and configuration of a Samba server on Ubuntu for file sharing within the local network. Samba is open source and free software suite providing print and file service to SMB/CIFS clients over a number of different operating systems. This case will cover access to the file server for a Linux client over LAN.
